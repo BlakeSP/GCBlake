@@ -8,8 +8,10 @@ Hi there! I'm an energetic and driven **Computer Science graduate** with a passi
 My ultimate goal is to pioneer innovations and explore groundbreaking fields, aiming for a **Master's Degree in Artificial Intelligence or Robotics**. Alongside my tech pursuits, I'm also pursuing a **Level 3 Personal Trainer certification** to blend my technical expertise with a dedication to fitness.
 I am prepared to make a significant impact in both the tech and fitness industries, leveraging my unique combination of skills and passion.
 
-<p align="center">
+
   ## Programming Languages
+  
+  <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -20,8 +22,9 @@ I am prepared to make a significant impact in both the tech and fitness industri
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </p>
 
+## Tools & Technologies
+
 <p align="center">
-  ## Tools & Technologies
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
