@@ -35,11 +35,14 @@ I am prepared to make a significant impact in both the tech and fitness industri
 </p>
 
 ### Interests
-- **Artificial Intelligence**
-- **Robotics**
-- **Web Development**
-- **Software Engineering**
-- **Fitness & Personal Training**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00D084?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Robotics-8A2BE2?style=for-the-badge&logo=robotics&logoColor=white" alt="Robotics">
+  <img src="https://img.shields.io/badge/Web%20Development-3A75C4?style=for-the-badge&logo=web-development&logoColor=white" alt="Web Development">
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF6F00?style=for-the-badge&logo=software-engineering&logoColor=white" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/Fitness%20&%20Personal%20Training-E91E63?style=for-the-badge&logo=fitness&logoColor=white" alt="Fitness & Personal Training">
+</p>
 
 ## Projects
 
