@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
-![GitHub Profile Banner](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub+Profile)
+![GitHub Profile Banner](![github-header-image](https://github.com/GCBlake/GCBlake/assets/128646190/b1c0100b-3006-404a-85d7-fc769c1f353b)
+
 
 ## About Me
 
@@ -55,15 +56,14 @@ I am prepared to make a significant impact in both the tech and fitness industri
 
 ## Education
 - **Bachelor of Science in Computer Science**
-  - University Name
-  - Graduation Year
+  - University of East London
+  - 2024
 
 ## Certifications
 - **Level 3 Personal Trainer Certification** (In Progress)
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/blake-pattemore/))
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's create something amazing together!
