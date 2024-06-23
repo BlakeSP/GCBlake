@@ -1,4 +1,4 @@
-(![github-header-image](https://github.com/GCBlake/GCBlake/assets/128646190/b1c0100b-3006-404a-85d7-fc769c1f353b)
+![github-header-image](https://github.com/GCBlake/GCBlake/assets/128646190/b1c0100b-3006-404a-85d7-fc769c1f353b)
 
 # Welcome to My GitHub Profile!
 
