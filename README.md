@@ -5,9 +5,7 @@
 ## About Me
 
 Hi there! I'm an energetic and driven **Computer Science graduate** with a passion for coding and continuous learning. I have a solid foundation in **Java, JavaScript, HTML, CSS,** and **Python**, and I am continuously advancing my skills in **C, C#,** and **C++**.
-
 My ultimate goal is to pioneer innovations and explore groundbreaking fields, aiming for a **Master's Degree in Artificial Intelligence or Robotics**. Alongside my tech pursuits, I'm also pursuing a **Level 3 Personal Trainer certification** to blend my technical expertise with a dedication to fitness.
-
 I am prepared to make a significant impact in both the tech and fitness industries, leveraging my unique combination of skills and passion.
 
 <p align="center">
@@ -20,7 +18,9 @@ I am prepared to make a significant impact in both the tech and fitness industri
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </p>
 
+<p align="center">
   ## Tools & Technologies
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
